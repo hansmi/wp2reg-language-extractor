@@ -2,12 +2,12 @@
 
 Parse and extract translation strings from the wp2reg firmware used by
 Luxtronik 2.x heat pump controllers manufactured and deployed by Alpha
-Innotech, NIBE, Novelan and possibly other companies and/or brands.
+Innotec, NIBE, Novelan and possibly other companies and/or brands.
 
 Tested using wp2reg version 3.85.6.
 
 
-## Extracting source files from firmware
+## Extract firmware
 
 The firmware is packaged as a [tarball][tar] and can be unpacked using GNU tar
 and other implementations, e.g.:
